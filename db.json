@@ -1,15 +1,20 @@
 {
-  "posts": [
+  "users": [
     {
-      "id": 1,
-      "title": "hello"
+      "user_name": "spiderman",
+      "password": "pass@spiderman"
     },
-     {
-      "id": 2,
-      "title": "world"
-    }
+       {
+      "user_name": "batman",
+      "password": "pass@batman"
+    },
+      {
+      "user_name": "ironman",
+      "password": "pass@ironman"
+    },
+      {
+      "user_name": "superman",
+      "password": "pass@superman"
+    },
   ],
-  "profile": {
-    "name": "typicode"
-  }
 }
