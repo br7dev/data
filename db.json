@@ -1,11 +1,20 @@
 {
-  "posts": [
+  "users": [
     {
-      "id": 1,
-      "title": "hello"
+      "user_name": "abcdef",
+      "password": "Password2022"
+    }
+     {
+      "user_name": "spiderman",
+      "password": "pass@spiderman"
+    }
+   {
+      "user_name": "ironman",
+      "password": "pass@ironman"
+    }
+   {
+      "user_name": "batman",
+      "password": "pass@batman"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
 }
