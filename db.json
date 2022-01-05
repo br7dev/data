@@ -1,8 +1,11 @@
 {
-  "users": [
+  "posts": [
     {
-      "user_name": "abcdef",
-      "password": "Password2022"
+      "id": 1,
+      "title": "hello"
     }
   ],
+  "profile": {
+    "name": "typicode"
+  }
 }
